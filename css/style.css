@@ -60,6 +60,6 @@ h1 {
     color:rgb(236, 196, 136) ;
  }
  
- img:hover {
+ .main img:hover {
     border: 2px solid rgb(236, 196, 136);
  }
