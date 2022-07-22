@@ -63,3 +63,10 @@ h1 {
  .main img:hover {
     border: 2px solid rgb(236, 196, 136);
  }
+.burg {
+    margin: 0 240px;
+    border: 5px rgb(236, 196, 136) solid;
+    padding: 0 35px;
+    
+
+}
